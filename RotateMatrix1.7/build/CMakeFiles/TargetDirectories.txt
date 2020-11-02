@@ -1,0 +1,3 @@
+/home/carlos/codeprac/CrackingTheCodingInterview/RotateMatrix/build/CMakeFiles/edit_cache.dir
+/home/carlos/codeprac/CrackingTheCodingInterview/RotateMatrix/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/codeprac/CrackingTheCodingInterview/RotateMatrix/build/CMakeFiles/rotatemat.dir

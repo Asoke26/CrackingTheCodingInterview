@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carlos/codeprac/CrackingTheCodingInterview/RotateMatrix/src/rotate_matrix.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+
